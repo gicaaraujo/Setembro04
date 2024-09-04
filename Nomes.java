@@ -1,0 +1,25 @@
+package Setembro04;
+
+public enum Nomes {
+
+	GIOVANA,
+	JOÃO,
+	MARIA,
+	CLARA,
+	SOPHIA,
+	LUCCA,
+	THEO,
+	BELLA,
+	BEATRIZ,
+	PEDRO,
+	ARTHUR,
+	LUIZA,
+	OLIVIA,
+	AURORA,
+	ANA_JULIA,
+	LAURA,
+	GABRIEL,
+	LORENA,
+	FLORA,
+	RAFAEL
+}

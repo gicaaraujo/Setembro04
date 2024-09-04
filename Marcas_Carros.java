@@ -1,0 +1,16 @@
+package Setembro04;
+
+public enum Marcas_Carros {
+
+	BMW,
+	MERCEDEZ,
+	LAMBORGHINI,
+	MCLAREN,
+	FERRARI,
+	AUDI,
+	JAGUAR,
+	ROLLS_ROYCE,
+	VOLVO,
+	ASTON_MARTIN,
+	LAND_ROVER,
+}

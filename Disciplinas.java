@@ -1,0 +1,18 @@
+package Setembro04;
+
+public enum Disciplinas {
+
+	LINGUA_PORTUGUESA,
+	MATEMÁTICA,
+	GEOGRAFIA,
+	QUÍMICA,
+	BIOLOGIA,
+	ARTE,
+	FÍSICA,
+	FILOSOFIA,
+	SOCIOLOGIA,
+	HISTÓRIA,
+	INGLÊS,
+	EDUCAÇÃO_FÍSICA,
+	SENAI,
+}
